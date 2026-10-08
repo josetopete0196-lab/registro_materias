@@ -15,6 +15,7 @@
         <div class="navbar-nav">
             <a class="nav-link active" href="{{ url('/materias') }}">Mostrar</a>
             <a class="nav-link" href="{{ url('/materias/registrar') }}">Registrar</a>
+            <a class="nav-link" href="{{ url('/materias/eliminar') }}">Eliminar</a>
         </div>
     </div>
 </nav>
